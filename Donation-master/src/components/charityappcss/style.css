@@ -1,0 +1,126 @@
+.containercampimg{
+    position: realtive;
+    top: 20px;
+    width: 100%;
+     
+    
+  
+
+}
+
+.containercampimg .btn{
+    position: absolute;
+    top: 68%;
+    left: 28%;
+    height: 133px;
+    width:532px;
+    transform: translate(-50%,-50%);
+    background-color: #481A00;
+    color: white; 
+    font-size: 40px;
+    border:none;
+    cursor: pointer;
+    border-radius: 6px;
+    text-align: center;
+
+}
+
+.field{
+    width: 1390px;
+    height: 120px;
+    background-color: #F9EFE4;
+}
+
+a{
+  text-decoration: none;
+}
+
+.field .tab{
+    margin-left:auto;
+    margin-right:auto;
+}
+select{
+    background-color:#B5A986ac;
+    width: 250px;
+    height: 50px;
+    border-radius: 25px;
+    
+    
+    
+}
+.dropdown .t1{
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+.campaigns .t2{
+    margin-left:auto;
+    margin-right:auto;
+}
+.campaigns .btn1{
+    color: #481A00;
+    background-color: #E0DBCE;
+    border-radius: 5px;
+    width: 150px;
+    height: 40px;
+    border:none;
+    float: right;
+    margin-left: 90px;
+   
+}
+
+.camp{
+    text-align: center;
+    font-size: 15px;
+}
+
+.camp .btn2{
+    background-color: #481A00;
+    color: white;
+    width: 200px ;
+    height: 50px;
+    text-align: center;
+    border: none;
+    margin: auto;
+    font-size: 25px;
+    
+
+}
+.campaigns .btn3{
+    background-color: white;
+    border-radius: 20px;
+    width:360px;
+   
+}
+.p{
+    color: #726459;
+    float: right;
+    
+}
+.p1{
+    color:#39322D;
+    font-style: oblique;
+    font-size: 15px;
+}
+.p2{
+    color:#481A00;
+
+}
+  
+.page{
+    font-size: 80px;
+    text-align: center;
+    font-style: normal;
+   
+}
+h2{
+    color: #ACD3B7;
+    text-align: center;
+    font-size: 50px;
+}
+
+.page1{
+    color:#B79D81;
+    font-size: 20px;
+}
